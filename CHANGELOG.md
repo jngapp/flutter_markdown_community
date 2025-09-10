@@ -1,3 +1,10 @@
+## 0.7.7+2
+ * Changed library from `flutter_markdown` to `flutter_markdown_community`
+ * Updated README to reflect this is a community fork
+ * Updated `markdown` dependency to `^7.3.0`
+ * Updated `meta` dependency to `^1.16.0`
+ * Updated `path` dependency to `^1.9.1`
+
 ## 0.7.7+1
 
 * Updates README to indicate that the package has been discontinued.
