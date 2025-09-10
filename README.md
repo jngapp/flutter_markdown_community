@@ -1,6 +1,6 @@
 # Flutter Markdown Community
 
-[![pub package](https://img.shields.io/pub/v/flutter_markdown_community.svg)](https://pub.dev/packages/flutter_markdown_community)
+[![pub package](https://img.shields.io/pub/v/flutter_markdown_community.svg?color=blue)](https://pub.dev/packages/flutter_markdown_community)
 
 ## Community Fork
 
