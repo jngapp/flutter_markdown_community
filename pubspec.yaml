@@ -1,5 +1,5 @@
 name: flutter_markdown_community
-description: A pork from the original [Flutter_Markdown](https://pub.dev/packages/flutter_markdown). A Markdown renderer for Flutter. 
+description: A fork from the original [Flutter_Markdown](https://pub.dev/packages/flutter_markdown). A Markdown renderer for Flutter. 
   Create rich text output, including text styles, tables, links, and more, from plain text data formatted with simple Markdown tags.
 repository: https://github.com/jngapp/flutter_markdown_community.git
 # issue_tracker: https://github.com/flutter/flutter/issues?q=is%3Aissue+is%3Aopen+label%3A%22p%3A+flutter_markdown%22

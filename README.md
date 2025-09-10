@@ -1,9 +1,10 @@
-# Flutter Markdown
-[![pub package](https://img.shields.io/pub/v/flutter_markdown.svg)](https://pub.dartlang.org/packages/flutter_markdown)
+# Flutter Markdown Community
 
-## Discontinued
+[![pub package](https://img.shields.io/pub/v/flutter_markdown_community.svg)](https://pub.dev/packages/flutter_markdown_community)
 
-**This project has been discontinued**, and will not receive further updates. For community discussion of alternative packages, see [this issue](https://github.com/flutter/flutter/issues/162966).
+## Community Fork
+
+**This is a community-maintained fork** of the original [flutter_markdown](https://pub.dev/packages/flutter_markdown) package, which was discontinued. This fork aims to continue development and maintenance of the Flutter Markdown renderer.
 
 ---
 
